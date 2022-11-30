@@ -13,7 +13,7 @@
     </nav>
     <div class='main'>
         <div class='header'>
-            <a href="/blog"><- Back</a>
+            <a href="/"><- Back</a>
             <h1>Voxel Game Engine - Sparse Voxel Octrees</h1>
         </div>
     <section class="about-main">
